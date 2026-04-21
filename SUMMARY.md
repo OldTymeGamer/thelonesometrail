@@ -1,6 +1,5 @@
 # Table of contents
 
-* [The Lonesome Trail](README.md)
 * [Welcome to The Lonesome Trail](welcome-to-oao-rp.md)
 * [Rules, Policies, and Conduct](rules.md)
 * [FAQ](faq.md)
@@ -9,11 +8,3 @@
 * [Troubleshooting Common Issues](troubleshooting-common-issues.md)
 * [Don't see option to split items](dont-see-option-to-split-items.md)
 * [Voice chat](voice-chat.md)
-* [Welcome to The Lonesome Trail](welcome-to-oao-rp-1.md)
-* [Rules, Policies, and Conduct](rules-1.md)
-* [FAQ](faq-1.md)
-* [Troubleshooting Common Issues](troubleshooting-common-issues-1.md)
-* [Keybinds](keybinds-1.md)
-* [Queue Priority](queue-priority-1.md)
-* [Voice chat](voice-chat-1.md)
-* [Don't see option to split items](dont-see-option-to-split-items-1.md)
