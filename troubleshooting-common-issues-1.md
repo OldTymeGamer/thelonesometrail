@@ -4,6 +4,6 @@ Welcome to the **Troubleshooting and Settings Adjustments** section of the guide
 
 This section is all about making sure you spend less time troubleshooting and more time enjoying the game. Let’s get started!
 
-[PreviousGame Function Keybinds](<.gitbook/assets/game function keybinds>)[NextUI Lag Issues](<.gitbook/assets/ui lag issues>)
+[PreviousKeybinds](<.gitbook/assets/keybinds (1)>)[NextDon't see option to split items](dont-see-option-to-split-items-1.md)
 
 Last updated 3 months ago

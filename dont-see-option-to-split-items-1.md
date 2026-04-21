@@ -1,5 +1,5 @@
 # Don't see option to split items
 
-[PreviousMap dose not load in properly](/broken/pages/gArojxMgYGEAJCOjs52Z)
+[PreviousTroubleshooting Common Issues](troubleshooting-common-issues-1.md)
 
 Last updated 2 months ago
