@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Slowburn RP](welcome-to-oao-rp.md)
+* [Welcome to Lonesome Trail](welcome-to-oao-rp.md)
 * [Rules, Policies, and Conduct](rules.md)
 * [FAQ](faq.md)
 * [Queue Priority](queue-priority.md)
