@@ -1,6 +1,10 @@
+---
+description: Answers to common questions before joining The Lonesome Trail.
+---
+
 # FAQ
 
-### What PC specs should I have to play on the server? <a href="#what-pc-specs-should-i-have-to-play-on-the-server" id="what-pc-specs-should-i-have-to-play-on-the-server"></a>
+### What PC specs should I have?
 
 For a smooth RedM experience on The Lonesome Trail, we recommend at least:
 
@@ -9,40 +13,34 @@ For a smooth RedM experience on The Lonesome Trail, we recommend at least:
 * **RAM:** 16GB
 * **Storage:** 72GB free space or more
 
-These are minimum recommendations. Better hardware will improve loading times, stability, and overall performance.
+These are minimum recommendations. Faster storage and stronger hardware improve loading and stability.
 
-***
-
-### Do I need to use a microphone? <a href="#do-i-need-to-use-a-microphone" id="do-i-need-to-use-a-microphone"></a>
+### Do I need a microphone?
 
 Yes. A working microphone is required for roleplay, since clear voice communication is a core part of the server experience.
 
-***
+### Do I need to apply?
 
-### Do I need to apply or be whitelisted? <a href="#do-i-need-to-apply-or-be-whitelisted" id="do-i-need-to-apply-or-be-whitelisted"></a>
+Yes. Submit a whitelist application before joining. Your application confirms that you accept the rules.
 
-Many RedM roleplay servers use an application or whitelist system to help keep the community serious and consistent. If that applies here, follow the server's join instructions before connecting.
+### How do I create a character?
 
-***
+Create your character during the first-time setup. Choose an original, period-appropriate name.
 
-### How do I create a character? <a href="#how-do-i-create-a-character" id="how-do-i-create-a-character"></a>
+Give them a simple background and a reason to meet people. Leave room for their story to develop in play.
 
-You will usually create your character the first time you join the server, or during a guided character setup process. Take your time with your character's appearance, backstory, and roleplay direction.
+### What roleplay is expected?
 
-***
+Play realistic, lore-friendly scenes that fit the Red Dead setting. Stay in character and create interaction before conflict.
 
-### What kind of roleplay is expected? <a href="#what-kind-of-roleplay-is-expected" id="what-kind-of-roleplay-is-expected"></a>
+Read [rules.md](rules.md "mention") for rules on metagaming, fear roleplay, death, and combat.
 
-We expect realistic, lore-friendly roleplay that fits the Red Dead setting. Stay in character, respect other players, and avoid rulebreaking or unrealistic behavior that breaks immersion.
-
-***
-
-### Can I play solo or do I need a group? <a href="#can-i-play-solo-or-do-i-need-a-group" id="can-i-play-solo-or-do-i-need-a-group"></a>
+### Can I play solo?
 
 You can absolutely start solo. Many players begin as independent characters and build relationships, jobs, or factions through roleplay over time.
 
-***
+### What if I have connection or loading issues?
 
-### What should I do if I have connection or loading issues? <a href="#what-should-i-do-if-i-have-connection-or-loading-issues" id="what-should-i-do-if-i-have-connection-or-loading-issues"></a>
+Restart RedM and check that Red Dead Redemption 2 is updated. Then follow [troubleshooting-common-issues.md](troubleshooting-common-issues.md "mention").
 
-If you have trouble connecting, try clearing your RedM cache, restarting the client, and checking that your game files are up to date. If the issue continues, contact staff or support for help.
+If the problem continues, open a support ticket with the error and relevant screenshots.

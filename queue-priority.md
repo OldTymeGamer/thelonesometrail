@@ -1,29 +1,28 @@
+---
+description: How queue priority works and how to resolve missing priority.
+---
+
 # Queue Priority
 
-**The Lonesome Trail Server Priority System Documentation**
+Queue priority helps manage access when the server is full. Higher priority places you earlier in the connection queue.
 
-The Lonesome Trail server uses a priority system to manage the queue for players attempting to join the server. Priority points are essential for determining a player's position in the queue, with more points leading to a higher placement. Players can earn and accumulate priority points through various roles and activities. Below are the primary ways to gain extra priority points:
+### Earn priority
 
-1. **Whitelist Jobs (Law, Doctors, Lawyers)**:
-   * Players who hold a whitelist job, such as law enforcement, doctors, or lawyers, automatically accumulate priority points as long as they remain active in these roles. Points are regularly recovered in the server's Discord, ensuring that players who contribute to essential server functions are rewarded with higher queue positions.
-2. **Purchase Priority Packages or Win in Events**:
-   * Players can also purchase priority packages directly from The Lonesome Trail store or donation page. These packages grant significant boosts to priority points, which are added to any existing points from roles or jobs.
-   * Additionally, players can win priority points by participating in server-hosted events. These events offer various rewards, including temporary or permanent priority boosts, providing an exciting way for active members to improve their queue position.
+You can receive priority through:
 
-**How Priority Points Work**
+1. An active whitelist role, including law, doctor, or lawyer.
+2. A priority package from the community store or donation page.
+3. A server event reward.
 
-* Players accumulate priority points from all sources, including whitelist jobs, purchased packages, and event rewards.
-* **Priority points from different sources are cumulative, meaning points from whitelist jobs, priority packages, and event rewards all stack together**. This allows players to maximize their queue position by combining points from multiple sources.
-* Points are regularly updated and recovered via the server’s Discord, ensuring that all eligible activities contribute to a player’s total priority score.
-* The total priority points a player has across all categories determine their final position in the queue when attempting to join the server.
+### How points work
 
-**Important Notes:**
+* Points from eligible sources stack.
+* Your combined total determines your queue position.
+* Staff updates eligible priority through the community Discord.
+* Packages and event rewards may include their own terms or duration.
 
-* Regular updates to priority points ensure that active and contributing players maintain their benefits.
-* Purchased and event-won points may have specific terms, including duration limits or special conditions as per server rules.
+### Missing or incorrect priority
 
-This priority system is designed to reward active participation in essential server roles and contributions while maintaining a fair and balanced approach to managing server access.
+Open a ticket if your eligible priority does not appear. Include your Discord name, active role, and proof of a purchase or event reward.
 
-[PreviousFAQ](/broken/pages/vOrdXTk9syArpoKaAf7m)[NextKeybinds](/broken/pages/EfeYtK335cd3IercXIVW)
-
-Last updated 3 months ago
+Review [keybinds.md](keybinds.md "mention") before joining the server.

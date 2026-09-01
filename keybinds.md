@@ -1,5 +1,10 @@
+---
+description: Essential controls, roleplay commands, and stance commands.
+---
 
-## Keybinds & Commands (WIP)
+# Keybinds
+
+Use these controls as a starting point. Your RedM settings may use different bindings.
 
 ### Movement
 
@@ -9,7 +14,7 @@
 * `D` - Right
 * `Z` - Ragdoll
 
-### Keybinds
+### Essential controls
 
 * `H` - Whistle Horse
 * `U` - See Hotbar
@@ -24,18 +29,19 @@
 * `F6` - Dance Menu
 * `Hold V` - Cinematic Mode
 
-### Basic Commands
+### Roleplay commands
 
+* `/kys` — Downs your character. Use only when stuck. Misuse may result in staff action.
+* `/me` — Describes your character's action or expression.
+* `/do` — Adds scene details or describes a character action.
+* `/try` — Shows your character attempting an action.
+* `/hurt` — Shows your character's wounds.
+* `/tag` — Visually describes something about your character.
+* `/guide` — Shows helpful in-game tips. Coming soon.
 
-* `/kys` - Downs your character. Only use when stuck, misuse will result in staff action.
-* `/me` - Used to describe your character in the moment.
-* `/do` - Used to describe an action your character is performing.
-* `/try` - Used to show your character attempting an action.
-* `/hurt` - Used to show wounds on your character.
-* `/tag` - Used to visually describe something about your character.
-* `/guide` - Helpful tips in-game. (Coming Soon)
+### Stance commands
 
-### Stances
+Use `/s` followed by a stance name. Stances support scenes but never replace roleplay.
 
 * `/s broomstanding`
 * `/s broomworking`
@@ -102,3 +108,4 @@
 * `/s vomit4`
 * `/s washhands`
 
+Need technical help? See [troubleshooting-common-issues.md](troubleshooting-common-issues.md "mention").

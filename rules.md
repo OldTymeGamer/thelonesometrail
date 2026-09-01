@@ -1,28 +1,30 @@
+---
+description: Community standards and roleplay rules for The Lonesome Trail.
+---
+
 # Rules, Policies, and Conduct
 
-★ DISCLAIMER ★
+### Agreement and enforcement
 
-Ignorance of these rules will not be tolerated.
+By submitting a whitelist application, you agree to follow these rules.
 
-By submitting a whitelist application, you acknowledge that you have read, understood, and agree to abide by these rules.
+Rules may change. Staff assesses uncovered situations case by case.
 
-★ ATTENTION! ★
+Create a ticket before acting when you are unsure. Staff decisions are final.
 
-These rules are subject to change at any time. Anything not covered here is handled on a case-by-case basis. If you are unsure about something, please make a ticket.
+### Community requirements
 
-Staff has final say for any decision made.
+The Lonesome Trail is an 18+ community. You and your character must be 18 or older.
 
-Thank you.
+Use an original character name. Do not reference recognizable people or fictional characters.
 
-★ NOTICE ★
+Keep names and roleplay suitable for the Wild West, circa 1900.
 
-The Lonesome Trail is an 18+ community.
-You and your character must both be at least 18 years old.
-Character names must not reference famous or well-known people from history, movies, games, books, or other media.
-Character names and in-character speech must fit the Wild West era, circa 1900.
-This server follows its own rules and guidelines, not personal interpretations of fairness.
+{% hint style="warning" %}
+This server follows its own rules and guidelines. Personal interpretations of fairness do not override them.
+{% endhint %}
 
-★ ZERO-TOLERANCE RULES ★
+### Zero-tolerance rules
 
 Violations of these rules may result in an automatic permanent ban unless staff decides otherwise.
 
@@ -31,10 +33,10 @@ Violations of these rules may result in an automatic permanent ban unless staff 
 * Sexual harassment: Unwanted or inappropriate comments, actions, or advances of a sexual nature.
 * Stalking or predatory behavior: Creepy, threatening, or unwarranted attention toward members.
 * Suicide roleplay: Any depiction or discussion is prohibited.
-* Third-party communication: IC communication must stay in game.
+* Third-party communication: Keep IC communication in game.
 * Roleplay bleed: OOC emotions may not negatively affect IC roleplay.
 
-★ GENERAL RULES ★
+### General rules
 
 * Account security: Do not share Steam accounts.
 * Respect and conduct: Treat all members with respect. Harassment, trolling, sexism, racism, and hate speech are not allowed.
@@ -48,7 +50,7 @@ Violations of these rules may result in an automatic permanent ban unless staff 
 * Gameplay restrictions: No macros and no third-party crosshairs.
 * AFK behavior: Log out if you need to step away. Being AFK does not exempt you from interactions.
 
-★ SERVER RULES ★
+### Roleplay and server rules
 
 * Roleplay over gunplay: Create storylines first. Legitimate interaction is required before attacking another player.
 * RDM: You may not kill or injure another player without prior interaction and a valid reason.
@@ -75,6 +77,4 @@ Violations of these rules may result in an automatic permanent ban unless staff 
 * Horse theft: Do not use the map or whistle to magically track or reclaim a stolen horse.
 * Body dumping: Bodies must be disposed of in a believable way and not dumped into water.
 
-[Back to Welcome](welcome-to-oao-rp.md) [NextFAQ](faq.md)
-
-Last updated 3 months ago
+Continue to [faq.md](faq.md "mention") or return to [welcome-to-oao-rp.md](welcome-to-oao-rp.md "mention").
