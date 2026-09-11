@@ -33,7 +33,7 @@ Give them a simple background and a reason to meet people. Leave room for their 
 
 Play realistic, lore-friendly scenes that fit the Red Dead setting. Stay in character and create interaction before conflict.
 
-Read [rules.md](rules.md "mention") for rules on metagaming, fear roleplay, death, and combat.
+Read [rules](rules/ "mention") for rules on metagaming, fear roleplay, death, and combat.
 
 ### Can I play solo?
 

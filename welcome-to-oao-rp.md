@@ -2,11 +2,11 @@
 description: Start your frontier story and prepare for your first day.
 ---
 
-# Welcome to Lonesome Trail
+# Welcome to Ashburn Creek
 
-<div align="center"><img src="https://i.imgur.com/K1N2I5N.png" alt="The Lonesome Trail banner" width="100%"></div>
+<div align="center"><figure><img src=".gitbook/assets/IMG_7539.png" alt=""><figcaption></figcaption></figure></div>
 
-Welcome to The Lonesome Trail. Build a grounded frontier story through character-led roleplay.
+Welcome to Ashburn Creek. Build a grounded frontier story through character-led roleplay.
 
 > A story-driven RedM community built for frontier roleplay, character growth, and memorable scenes.
 
@@ -44,4 +44,4 @@ Start slowly. Meet people, learn the town, and create scenes with others.
 * Keep out-of-character information out of character decisions.
 * Ask staff through a ticket when you need support.
 
-Read [rules.md](rules.md "mention") first. Then review [keybinds.md](keybinds.md "mention") before connecting.
+Read [rules](rules/ "mention") first. Then review [keybinds.md](keybinds.md "mention") before connecting.

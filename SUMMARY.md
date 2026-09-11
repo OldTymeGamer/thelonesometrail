@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Welcome to Lonesome Trail](welcome-to-oao-rp.md)
-* [Rules, Policies, and Conduct](rules.md)
+* [Welcome to Ashburn Creek](welcome-to-oao-rp.md)
+* [Rules, Policies, and Conduct](rules/README.md)
+  * [Lonesome Trail - Google Docs](rules/lonesome-trail-google-docs.md)
 * [FAQ](faq.md)
 * [Queue Priority](queue-priority.md)
 * [Keybinds](keybinds.md)

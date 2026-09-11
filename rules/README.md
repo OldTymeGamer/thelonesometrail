@@ -77,4 +77,4 @@ Violations of these rules may result in an automatic permanent ban unless staff 
 * Horse theft: Do not use the map or whistle to magically track or reclaim a stolen horse.
 * Body dumping: Bodies must be disposed of in a believable way and not dumped into water.
 
-Continue to [faq.md](faq.md "mention") or return to [welcome-to-oao-rp.md](welcome-to-oao-rp.md "mention").
+Continue to [faq.md](../faq.md "mention") or return to [welcome-to-oao-rp.md](../welcome-to-oao-rp.md "mention").
